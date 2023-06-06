@@ -1,0 +1,2 @@
+# ecoleta
+garbage collection application
